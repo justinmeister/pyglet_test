@@ -7,3 +7,6 @@ BEGINX = 400
 BEGINY = 50
 
 ROCKET_IMAGE = 'spaceship.png'
+
+###STATES####
+IDLING = 'idling'
